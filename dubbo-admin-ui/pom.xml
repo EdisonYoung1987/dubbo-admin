@@ -49,6 +49,7 @@
                         </goals>
                         <configuration>
                             <nodeVersion>v9.11.1</nodeVersion>
+                            <downloadRoot>http://npm.taobao.org/mirrors/node/</downloadRoot>
                         </configuration>
                     </execution>
                     <!-- Install all project dependencies -->
